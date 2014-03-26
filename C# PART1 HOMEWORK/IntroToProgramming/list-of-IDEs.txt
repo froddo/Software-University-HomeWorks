@@ -1,0 +1,45 @@
+	Integrated development environment
+		An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. 
+		An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs offer Intelligent code completion features.
+
+	Netbeans
+		NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
+		It is also an application platform framework for Java desktop applications and others.
+		The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+		The NetBeans Platform allows applications to be developed from a set of modular software components called modules.
+		Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers.
+	Eclipse
+		In computer programming, Eclipse is an integrated development environment (IDE). 
+		It contains a base workspace and an extensible plug-in system for customizing the environment. 
+		Written mostly in Java, Eclipse can be used to develop applications. 
+		By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Perl, PHP, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. 
+		It can also be used to develop packages for the software Mathematica. 
+		Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+	MonoDevelop
+		MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows.
+		Its primary focus is development of projects that use Mono and .NET frameworks. 
+		MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, a graphical user interface (GUI) and Web designer. 
+		MonoDevelop integrates a Gtk# GUI designer called Stetic.
+		It supports C#, F#, Java, Boo, Visual Basic.NET, Oxygene, CIL, Python, Vala, C and C++.
+	Visual Studio
+		Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. 
+		It is used to develop console and graphical user interface applications along with Windows Forms or WPF applications, web sites, web applications, web services, and also Windows Store apps in both native code together with managed code for all platforms supported by Microsoft Windows, Windows Mobile, Windows CE, .NET Framework, .NET Compact Framework and Microsoft Silverlight.
+		Visual Studio includes a code editor supporting IntelliSense as well as code refactoring. 
+		The integrated debugger works both as a source-level debugger and a machine-level debugger. 
+		Other built-in tools include a forms designer for building GUI applications, web designer, class designer, and database schema designer. 
+		It accepts plug-ins that enhance the functionality at almost every level—including adding support for source-control systems (like Subversion and Visual SourceSafe) and adding new toolsets like editors and visual designers for domain-specific languages or toolsets for other aspects of the software development lifecycle (like the Team Foundation Server client: Team Explorer).
+		Visual Studio supports different programming languages by means of language services, which allow the code editor and debugger to support (to varying degrees) nearly any programming language, provided a language-specific service exists. Built-in languages include C/C++[5] (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#), and F# (as of Visual Studio 2010). 
+		Support for other languages such as M, Python, and Ruby among others is available via language services installed separately. 
+		It also supports XML/XSLT, HTML/XHTML, JavaScript and CSS. Individual language-specific versions of Visual Studio also exist which provide more limited language services to the user: Microsoft Visual Basic, Visual J#, Visual C#, and Visual C++.
+	Xcode
+		Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software for OS X and iOS. First released in 2003, the latest stable release is version 5.0 and is available via the Mac App Store free of charge for Mac OS X Lion and OS X Mountain Lion users.
+		Registered developers can download preview releases and previous versions of the suite through the Apple Developer website
+		Previously Xcode supported distributing a product build process over multiple systems. One technology involved was called Shared Workgroup Build, which used the Bonjour protocol to automatically discover systems providing compiler services, and a modified version of the free software product distcc to facilitate the distribution of workloads. 
+		Earlier versions of Xcode provided a system called Dedicated Network Builds. These features are absent in the supported versions of Xcode.
+		Xcode includes the GUI tool Instruments, which runs atop DTrace, a dynamic tracing framework created by Sun Microsystems and released as part of OpenSolaris.
+	Android Studio
+		Android Studio is an integrated development environment (IDE) for the Android platform. 
+		It was announced on 16 May 2013 by Google's Product Manager, Ellie Powers, at that year's Google I/O conference. 
+		As of June 2013, it is available for users to try (for free) as an early access preview. 
+		Based on JetBrains' IntelliJ IDEA software, the Studio is designed specifically for Android development.
+		It is available for download on Windows, Mac OS X and Linux.
